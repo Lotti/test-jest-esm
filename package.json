@@ -1,7 +1,7 @@
 {
   "name": "test-jest-esm",
   "version": "2.2.55",
-  "description": "test-jest-esm",
+  "description": "Testing jest with ESM node project",
   "license": "UNLICENSED",
   "repository": "https://github.com/Lotti/test-jest-esm",
   "type": "module",
